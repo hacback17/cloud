@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Hello World](README.md)
+* [Learning GCP](README.md)
 
