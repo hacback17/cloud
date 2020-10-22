@@ -21,6 +21,8 @@ Cloud computing is essentially the continuation of a model that rent out computi
 
 ## IaaS, PaaS, SaaS
 
+![Cloud Computing solutions. Photo credit: https://www.bmc.com](../.gitbook/assets/image%20%283%29.png)
+
 **IaaS** - With IaaS, the services provides the underlying architecture you to run servers.
 
 * **CPU**, **memory**, **storage**, and **networking** is provided as a service.
