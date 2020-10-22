@@ -2,6 +2,8 @@
 
 ## Cloud computing has five characteristics:
 
+![](../.gitbook/assets/image%20%289%29.png)
+
 1. On-demand and Self-service
    * No human intervention needed to get resources. Customers using the automated interface get processing power, storage and the network they need without the typical complex configuration.
 2. Broad network access
@@ -41,6 +43,54 @@ Cloud computing is essentially the continuation of a model that rent out computi
 * Examples - SAP, Salesforce, G-Suite, Dropbox, Salesforce, Cisco WebEx, Concur, GoToMeeting
 
 {% embed url="https://youtu.be/cIyYqVf3gXM" %}
+
+##  Google Cloud Architecture
+
+Google product and services can be broadly categorized as:
+
+* Compute
+* Storage
+* Big Data
+* Machine Learning
+* Networking
+* Operations or Tools
+
+**Compute**: 
+
+* Leveraging compute can include virtual machine via **Compute Engine**
+* Running docker containers in the **Google's Kubernetes Engine \(GKE\)**
+* Deploying applications in a managed platform like **App Engine**
+* Running event-based server-less code using **Cloud Functions**
+
+![Google&apos;s Computer Services](../.gitbook/assets/image%20%284%29.png)
+
+**Storage:** A variety of managed storage services available as well.
+
+* For unstructured storage -&gt; Cloud Storage
+* Managed relational database -&gt; Cloud SQL or Cloud Spanner
+* No-SQL database -&gt; Cloud Bigtable or Cloud Datastore
+
+![](../.gitbook/assets/image%20%288%29.png)
+
+
+
+![](../.gitbook/assets/image%20%285%29.png)
+
+## Understanding Regions and Zones
+
+Google divides the world into three multi-regional areas: 
+
+* America
+* Europe
+* Asia/Pacific
+
+![](../.gitbook/assets/image%20%287%29.png)
+
+**"Zone** is the deployment area of the GCP. When you want to run a Virtual Machine \(VM\) in GCP, that would be placed on a zone you defined. **Region** is created using several zones. Regions are located in several geographical locations with **round trip network latency under 5ms**!! 
+
+If you need to establish an application with high availability you should establish your application in multiple zones.That allows you to provide the service continuously without any failure.Google provides multi region resource allocation facility.Which means your resources are located at least two geographically different locations which are 160 km apart.The most important thing is you can use resources located in multiple regions for the sake of virtualization." - [Intro to GCP](https://medium.com/@sakunaj1996/google-cloud-platform-101-efbb81e7d3a6)
+
+A zones may have one or more data centers. For example, the `us-west1` region denotes a region on the west coast of the United States that has three zones: `us-west1-a`, `us-west1-b`, and `us-west1-c`.
 
 
 
