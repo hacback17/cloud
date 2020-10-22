@@ -29,12 +29,14 @@ Cloud computing is essentially the continuation of a model that rent out computi
 **PaaS** - The entire platform is provided to you as a service. All you need to provide is your **application**.
 
 * The platform is a managed service.
-* All the user provides is the application.
+* All the user provides is the **application** and **data**.
+* Example -  AWS Elastic Beanstalk, Windows Azure, Heroku, Force.com, Google App Engine, Apache Stratos, OpenShift
 
 **SaaS -** The platform and application is provided to you. All you need to do is to bring your data to the system.
 
 * The platform and software is provided as a service to the user.
 * The user supplies the data.
+* Examples - SAP, Salesforce, G-Suite, Dropbox, Salesforce, Cisco WebEx, Concur, GoToMeeting
 
 {% embed url="https://youtu.be/cIyYqVf3gXM" %}
 
