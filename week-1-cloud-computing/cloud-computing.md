@@ -26,10 +26,17 @@ Cloud computing is essentially the continuation of a model that rent out computi
 * **CPU**, **memory**, **storage**, and **networking** is provided as a service.
 * The **user** needs to **manage the OS** and **the application**.
 
-**PaaS** - The entire environment is provided to you as a service. All you need to provide is your **application**.
+**PaaS** - The entire platform is provided to you as a service. All you need to provide is your **application**.
 
 * The platform is a managed service.
 * All the user provides is the application.
+
+**SaaS -** The platform and application is provided to you. All you need to do is to bring your data to the system.
+
+* The platform and software is provided as a service to the user.
+* The user supplies the data.
+
+{% embed url="https://youtu.be/cIyYqVf3gXM" %}
 
 
 
