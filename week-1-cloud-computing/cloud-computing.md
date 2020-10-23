@@ -59,9 +59,14 @@ Google product and services can be broadly categorized as:
 * Compute
 * Storage
 * Big Data
-* Machine Learning
+* Artificial Intelligence
 * Networking
-* Operations or Tools
+* Cloud Operations
+* Tools
+
+Documentation:
+
+{% embed url="https://cloud.google.com/docs/overview/cloud-platform-services\#top\_of\_page" %}
 
 **Compute**: 
 
