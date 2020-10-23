@@ -1,8 +1,15 @@
-# Cloud Computing
+---
+description: >-
+  The Cloud Computing refers to software and services that run on the Internet
+  instead of locally on a computer. The advantage is you can use your
+  information on any device with an internet connection.
+---
+
+# Module 1 - Cloud Computing
 
 ## Cloud computing has five characteristics:
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
 1. On-demand and Self-service
    * No human intervention needed to get resources. Customers using the automated interface get processing power, storage and the network they need without the typical complex configuration.
@@ -21,7 +28,7 @@
 
 Cloud computing is essentially the continuation of a model that rent out computing infrastructure and have it managed by dedicated professionals.
 
-## IaaS, PaaS, SaaS
+## Cloud Computing Models - IaaS, PaaS, SaaS
 
 ![Cloud Computing solutions. Photo credit: https://www.bmc.com](../.gitbook/assets/image%20%283%29.png)
 
@@ -29,6 +36,7 @@ Cloud computing is essentially the continuation of a model that rent out computi
 
 * **CPU**, **memory**, **storage**, and **networking** is provided as a service.
 * The **user** needs to **manage the OS** and **the application**.
+* Example - Google Compute Engine, 
 
 **PaaS** - The entire platform is provided to you as a service. All you need to provide is your **application**.
 
@@ -62,7 +70,7 @@ Google product and services can be broadly categorized as:
 * Deploying applications in a managed platform like **App Engine**
 * Running event-based server-less code using **Cloud Functions**
 
-![Google&apos;s Computer Services](../.gitbook/assets/image%20%286%29.png)
+![Google&apos;s Computer Services](../.gitbook/assets/image%20%287%29.png)
 
 **Storage:** A variety of managed storage services available as well.
 
@@ -70,11 +78,11 @@ Google product and services can be broadly categorized as:
 * Managed relational database -&gt; Cloud SQL or Cloud Spanner
 * No-SQL database -&gt; Cloud Bigtable or Cloud Datastore
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 ## Understanding Regions and Zones
 
@@ -84,7 +92,7 @@ Google divides the world into three multi-regional areas:
 * Europe
 * Asia/Pacific
 
-![](../.gitbook/assets/image%20%2814%29.png)
+![](../.gitbook/assets/image%20%2817%29.png)
 
 **"Zone** is the deployment area of the GCP. When you want to run a Virtual Machine \(VM\) in GCP, that would be placed on a zone you defined. **Region** is created using several zones. Regions are located in several geographical locations with **round trip network latency under 5ms**!! 
 
@@ -95,19 +103,19 @@ If you need to establish an application with high availability you should establ
 1. A zones may have one or more data centers. For example, the `us-west1` region denotes a region on the west coast of the United States that has three zones: `us-west1-a`, `us-west1-b`, and `us-west1-c`.
 2. Zonal resources operate exclusively in a single zone. That means, if the zone becomes unavailable, there won't be resources available either.
 
-![](../.gitbook/assets/image%20%2811%29.png)
+![](../.gitbook/assets/image%20%2813%29.png)
 
     3. Regional resources operate across multiple zones but still within the same region. An application using these resources can be redundantly deployed improve its availability. 
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
      4. Finally, Global resources can be managed across multiple regions. These resources can further improve the availability of an application.
 
-![](../.gitbook/assets/image%20%2816%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
        5. The GCP resources you use no matter where they reside must belong to a project.
 
-![](../.gitbook/assets/image%20%2813%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 **GCP Project**: 
 
@@ -119,18 +127,18 @@ If you need to establish an application with high availability you should establ
 * You should use folders to reflect the hierarchy of your enterprise and apply **policies** at the right levels in your enterprise.
 * You can nest folders insider folders.
 
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../.gitbook/assets/image%20%2815%29.png)
 
 * A single **organization** owns the folders beneath it. Organization is the root node of a GCP resources hierarchy. Although you aren't required to use an organization, they are very useful. 
 
-![](../.gitbook/assets/image%20%285%29.png)
+![](../.gitbook/assets/image%20%286%29.png)
 
 * Organization lets you set the policy that apply throughout your enterprise.
 * Having an organization is required to use folders.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
-* You define IAM policies to have granular control over all the GCP resources you use.
+* You define **IAM** policies to have granular control over all the GCP resources you use.
 
 {% embed url="https://youtu.be/rVjCd6ASmI8" %}
 
