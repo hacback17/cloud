@@ -9,7 +9,7 @@ description: >-
 
 ## Cloud computing has five characteristics:
 
-![](../.gitbook/assets/image%20%2820%29.png)
+![](../.gitbook/assets/image%20%2821%29.png)
 
 1. On-demand and Self-service
    * No human intervention needed to get resources. Customers using the automated interface get processing power, storage and the network they need without the typical complex configuration.
@@ -78,7 +78,7 @@ Google product and services can be broadly categorized as:
 * Managed relational database -&gt; Cloud SQL or Cloud Spanner
 * No-SQL database -&gt; Cloud Bigtable or Cloud Datastore
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 
 
@@ -92,7 +92,7 @@ Google divides the world into three multi-regional areas:
 * Europe
 * Asia/Pacific
 
-![](../.gitbook/assets/image%20%2817%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 **"Zone** is the deployment area of the GCP. When you want to run a Virtual Machine \(VM\) in GCP, that would be placed on a zone you defined. **Region** is created using several zones. Regions are located in several geographical locations with **round trip network latency under 5ms**!! 
 
@@ -111,7 +111,7 @@ If you need to establish an application with high availability you should establ
 
      4. Finally, Global resources can be managed across multiple regions. These resources can further improve the availability of an application.
 
-![](../.gitbook/assets/image%20%2819%29.png)
+![](../.gitbook/assets/image%20%2820%29.png)
 
        5. The GCP resources you use no matter where they reside must belong to a project.
 

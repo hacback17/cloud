@@ -75,7 +75,37 @@ Projects have three identifying attributes:
       2. **Allocation quotas** governs number of allocation resources have in your projects. For example, 5 networks per project
    4. Many quotas are changeable by calling the Google support. You can also use the console to request a quota change.
 
+![](../.gitbook/assets/image%20%2823%29.png)
+
 ![](../.gitbook/assets/image%20%2822%29.png)
 
-![](../.gitbook/assets/image%20%2821%29.png)
+## Cloud SDK
+
+Cloud SDK allows you to manage GCP resources and applications from a desktop.
+
+* gcloud
+  * Manages authentication, local configuration, developer workflow, and interaction with the cloud platform APIs.
+* gsutil
+  * Provides command-line access to the storage buckets and objects
+* bq
+  * Allows you to run query and manipulate datasets, tables in Bigtable
+
+### Installation:
+
+{% embed url="https://cloud.google.com/sdk/docs/install" %}
+
+### Configuration:
+
+* Start Google Cloud SDK Shell
+* Run `gcloud init`
+
+## Cloud Shell
+
+![](../.gitbook/assets/image%20%2817%29.png)
+
+* Broswer-based CLI access to resources
+* No need to install Cloud SDK or other tools locally
+* Runs on an ephemeral Compute Engine VM at no cost to you
+* 5 GB of persistant disk storage
+* Wen preview functionality and built-in authorization for project/resources access.
 
