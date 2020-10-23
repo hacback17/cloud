@@ -109,3 +109,7 @@ Cloud SDK allows you to manage GCP resources and applications from a desktop.
 * 5 GB of persistant disk storage
 * Wen preview functionality and built-in authorization for project/resources access.
 
+## Practice
+
+{% embed url="https://google.qwiklabs.com/quests/23" %}
+

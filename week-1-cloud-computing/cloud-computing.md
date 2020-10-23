@@ -143,7 +143,7 @@ If you need to establish an application with high availability you should establ
 
 ![](../.gitbook/assets/image%20%288%29.png)
 
-* You define **IAM** policies to have granular control over all the GCP resources you use.
+* You define **IAM** policies to have granular control over all the GCP resources you use. **Cloud IAM** define who has access to what resources, and o inspect and modify such roles and permissions.
 
 {% embed url="https://youtu.be/rVjCd6ASmI8" %}
 
