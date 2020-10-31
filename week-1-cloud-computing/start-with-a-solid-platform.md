@@ -89,6 +89,8 @@ Cloud SDK allows you to manage GCP resources and applications from a desktop.
   * Provides command-line access to the storage buckets and objects
 * bq
   * Allows you to run query and manipulate datasets, tables in Bigtable
+* kubectl
+  * For managing Kubernates.
 
 ### Installation:
 
