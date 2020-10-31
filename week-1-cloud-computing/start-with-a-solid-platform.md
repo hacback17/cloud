@@ -25,7 +25,7 @@ Every GCP service you use is associated with a project:
 * Track resources and quota usage.
 * Using resource manager, manage your projects programmatically in GCP - Rest API.
 
-Each project is a separate account. And, each resource belongs to exactly one.
+Under one account, you can have one or multiple projects. And, each resource belongs to exactly one project.
 
 Projects can have different owners and users they are billed separately and managed separately.
 
