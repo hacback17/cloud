@@ -2,7 +2,7 @@
 description: Foundational cloud computing knowledge
 ---
 
-# Cloud Computing Fundamentals
+# 02. Cloud Computing Fundamentals
 
 ## NIST Definition of Cloud Computing
 
@@ -31,11 +31,11 @@ description: Foundational cloud computing knowledge
 
 ## Exam Power-up
 
-![](../.gitbook/assets/image%20%2838%29.png)
+![](../.gitbook/assets/image%20%2841%29.png)
 
 ## Public vs Private vs Hybrid vs Multi-Cloud
 
-![](../.gitbook/assets/image%20%2837%29.png)
+![](../.gitbook/assets/image%20%2839%29.png)
 
 * **Public Cloud** = using **1** public cloud
 * **Private Cloud** = using on-premises **\*real\*** cloud \(if they meet 5 essential characteristics\)
@@ -46,5 +46,9 @@ description: Foundational cloud computing knowledge
 
 ##  Cloud Service Models
 
+![](../.gitbook/assets/image%20%2838%29.png)
 
+![](../.gitbook/assets/image%20%2840%29.png)
+
+![](../.gitbook/assets/image%20%2837%29.png)
 
