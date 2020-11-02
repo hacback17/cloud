@@ -27,7 +27,16 @@
 
 ## Exam Power-up
 
+![](../.gitbook/assets/image%20%2838%29.png)
+
+## Public vs Private vs Hybrid vs Multi-Cloud
+
 ![](../.gitbook/assets/image%20%2837%29.png)
 
-
+* **Public Cloud** = using **1** public cloud
+* **Private Cloud** = using on-premises **\*real\*** cloud \(if they meet 5 essential characteristics\)
+* **Multi-Cloud** = using more than 1 public cloud
+* **Hybrid Cloud** = **Public** and **Private** Clouds
+* Hybrid Cloud is **NOT** public cloud + legacy on-premises.
+* **Hybrid Network/Environment** = **Public cloud** + **legacy on-premises** 
 
