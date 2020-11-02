@@ -1,3 +1,7 @@
+---
+description: Foundational cloud computing knowledge
+---
+
 # Cloud Computing Fundamentals
 
 ## NIST Definition of Cloud Computing
@@ -39,4 +43,8 @@
 * **Hybrid Cloud** = **Public** and **Private** Clouds
 * Hybrid Cloud is **NOT** public cloud + legacy on-premises.
 * **Hybrid Network/Environment** = **Public cloud** + **legacy on-premises** 
+
+##  Cloud Service Models
+
+
 
