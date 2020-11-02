@@ -23,7 +23,11 @@
 
 ### \#5 - Measured Service
 
-* Pay only for what you use
+* Pay only for what you use. Nothing in advance.
+
+## Exam Power-up
+
+![](../.gitbook/assets/image%20%2837%29.png)
 
 
 
