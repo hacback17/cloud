@@ -14,9 +14,3 @@
 
 {% embed url="https://www.coursera.org/aws" %}
 
-
-
-
-
-
-
