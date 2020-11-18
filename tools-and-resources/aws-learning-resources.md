@@ -8,6 +8,14 @@
 
 {% embed url="https://docs.aws.amazon.com/" caption="Documentation" %}
 
+## Courses on Coursera
+
+{% embed url="https://www.coursera.org/aws" %}
+
+{% embed url="https://www.coursera.org/specializations/aws-fundamentals" %}
+
+
+
 
 
 
