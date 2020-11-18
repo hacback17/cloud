@@ -8,9 +8,15 @@
 
 {% embed url="https://docs.aws.amazon.com/" caption="Documentation" %}
 
-## Courses on Coursera
+## Courses
 
-{% embed url="https://www.coursera.org/specializations/aws-fundamentals" %}
+{% embed url="https://www.coursera.org/specializations/aws-fundamentals" caption="Coursera" %}
 
-{% embed url="https://www.coursera.org/aws" %}
+{% embed url="https://www.coursera.org/aws" caption="Coursera" %}
+
+{% embed url="https://www.edx.org/school/aws" caption="Edx" %}
+
+### Some free courses on A Cloud Guru: 
+
+{% embed url="https://acloudguru.com/browse-training?vendors%5B%5D=amazon-web-services" %}
 
