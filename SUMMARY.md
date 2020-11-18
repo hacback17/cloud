@@ -12,3 +12,7 @@
 * [01. Fundamentals and AWS Accounts](learning-aws/01.-fundamentals-and-aws-accounts.md)
 * [02. Cloud Computing Fundamentals](learning-aws/cloud-computing-fundamentals.md)
 
+## Tools and Resources
+
+* [AWS Learning Resources](tools-and-resources/aws-learning-resources.md)
+
