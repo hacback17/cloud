@@ -10,9 +10,9 @@
 
 ## Courses on Coursera
 
-{% embed url="https://www.coursera.org/aws" %}
-
 {% embed url="https://www.coursera.org/specializations/aws-fundamentals" %}
+
+{% embed url="https://www.coursera.org/aws" %}
 
 
 
