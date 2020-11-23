@@ -17,3 +17,7 @@
 
 * [AWS Learning Resources](tools-and-resources/aws-learning-resources.md)
 
+## ProjectOmega - LinuxAcademy
+
+* [1. Identity and Access Management \(IAM\)](projectomega-linuxacademy/1.-identity-and-access-management-iam.md)
+
