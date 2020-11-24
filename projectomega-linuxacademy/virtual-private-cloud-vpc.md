@@ -8,5 +8,9 @@
 
 _**Note: When you create an AWS account, a "default" VPC is created for you.**_
 
+![](../.gitbook/assets/image%20%2854%29.png)
+
+### How Data Flows Through VPC:
+
 ![](../.gitbook/assets/image%20%2853%29.png)
 
