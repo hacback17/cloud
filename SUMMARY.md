@@ -20,4 +20,5 @@
 ## ProjectOmega - LinuxAcademy
 
 * [1. Identity and Access Management \(IAM\)](projectomega-linuxacademy/1.-identity-and-access-management-iam.md)
+* [Virtual Private Cloud \(VPC\)](projectomega-linuxacademy/virtual-private-cloud-vpc.md)
 
