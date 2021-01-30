@@ -1,4 +1,12 @@
+---
+description: >-
+  There is no charge to use these products up to their specified free usage
+  limit. The free usage limit does not expire, but is subject to change.
+---
+
 # Lesson 1: Account Setup
+
+![](.gitbook/assets/image%20%2855%29.png)
 
 ### GCP Free Trial:
 
@@ -60,10 +68,4 @@
 * 5,000 units/month Google Cloud Natural Language API
 * Google Cloud Shell with 5 GB of persistent disk storage quota
 * 1 GB of Google Cloud Source Repositories private hosting
-
-
-
-
-
-
 
