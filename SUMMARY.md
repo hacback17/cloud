@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Learning GCP](README.md)
+* [Lesson 1: Account Setup](lesson-1-account-setup.md)
 
 ## Week 1 - Cloud Computing
 
