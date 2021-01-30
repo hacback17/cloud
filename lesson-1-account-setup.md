@@ -27,4 +27,8 @@
 * Always free is a certain amount of different services that you can use without having to pay for it.
 * "Always Free usage does not count against your free trial credits."
 * Last beyond the end of the free trial
+
+### "Always Free" Compute Highlights:
+
+* Each day **\(24hr/day\)** you can run worth of an **f1-micro** instance in most **US** regions.
 * 
