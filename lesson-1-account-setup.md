@@ -40,6 +40,30 @@
 * 5 GB of Regional Cloud Storage, including some operations
 * 1 GB of Cloud Datastore storage, including some operations
 * 10 GB of BigQuery storage, with 1 TB/month of query processing
+* 30 GB HDD storage on GCE and AE
+* 5 GB snapshot storage on GCE and AE
+* 5 GB of StackDriver logs with 7-day retention
+
+### "Always Free" Networking Highlights:
+
+* Egress \(data going out\) to China and Australia not free!
+* 1 GB/month of App Engine data egress
+* 1 GB/month of Compute Engine data egress
+* 5 GB/month of egress by Cloud Function invocations
+* 10 GB/month of Cloud PubSub messages
+
+### "Always Free" Other Highlights:
+
+* 120 build-minutes/day of Google Cloud Container Builder
+* 60 minutes/month of Google Cloud Speech API recognition from audio/video
+* 1,000 units/month of Cloud Vision API calls
+* 5,000 units/month Google Cloud Natural Language API
+* Google Cloud Shell with 5 GB of persistent disk storage quota
+* 1 GB of Google Cloud Source Repositories private hosting
+
+
+
+
 
 
 
