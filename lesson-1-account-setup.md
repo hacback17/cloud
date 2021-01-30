@@ -25,4 +25,6 @@
 ### "Always Free":
 
 * Always free is a certain amount of different services that you can use without having to pay for it.
-
+* "Always Free usage does not count against your free trial credits."
+* Last beyond the end of the free trial
+* 
