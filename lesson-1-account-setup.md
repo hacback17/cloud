@@ -31,4 +31,15 @@
 ### "Always Free" Compute Highlights:
 
 * Each day **\(24hr/day\)** you can run worth of an **f1-micro** instance in most **US** regions.
-* 
+* **28hr/day** of **App Engine** runtime, in _**North America**_
+* **2M/month** of **Cloud Functions** invocations \(with certain runtime/size limits\)
+
+### "Always Free" Storage Highlights:
+
+* Storage averaged over the month
+* 5 GB of Regional Cloud Storage, including some operations
+* 1 GB of Cloud Datastore storage, including some operations
+* 10 GB of BigQuery storage, with 1 TB/month of query processing
+
+
+
