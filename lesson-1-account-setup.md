@@ -69,3 +69,11 @@ description: >-
 * Google Cloud Shell with 5 GB of persistent disk storage quota
 * 1 GB of Google Cloud Source Repositories private hosting
 
+## Billing Export
+
+* Export must be set up per billing account
+* Resources should be placed into appropriate projects
+* Resources should be tagged with labels
+* Billing export is not real-time
+  * Delay in hours
+
