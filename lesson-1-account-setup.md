@@ -129,5 +129,7 @@ An interesting discussion around assigning a non-admin user a "Billing Account U
 
 {% embed url="https://acloud.guru/forums/gcp-certified-associate-cloud-engineer/discussion/-LXTMrK7wmth5AndVh1o/who\_gave\_%22billing\_account\_user" %}
 
+The bottom line is "if your Google account is _not_ a part of any Organization, then projects will not be owned by any Organization--those projects will be owned by the Google account that created them. And **Google accounts intrinsically have permission to create** _**their own**_ **projects**".
+
 
 
