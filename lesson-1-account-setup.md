@@ -123,3 +123,11 @@ GROUP BY cost, product
 LIMIT 200
 ```
 
+## Set Up Non-Admin User Access \(Lab\)
+
+An interesting discussion around assigning a non-admin user a "Billing Account User" role and how it was able to "**create**" a project in addition to just **linking it to the Billing Account**.
+
+{% embed url="https://acloud.guru/forums/gcp-certified-associate-cloud-engineer/discussion/-LXTMrK7wmth5AndVh1o/who\_gave\_%22billing\_account\_user" %}
+
+
+
