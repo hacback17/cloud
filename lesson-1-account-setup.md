@@ -77,7 +77,7 @@ description: >-
 * Billing export is not real-time
   * Delay in hours
 
-### View Sample Billing Data with BigQuery
+### View Sample Billing Data with BigQuery \(Lab\)
 
 Let's look at the publicly available dataset:
 
