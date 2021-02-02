@@ -12,7 +12,10 @@ Highlights:
 * Easy-access to pre-installed tools
   * gcloud, bq, kubectl, docker, npm/node, pip/python, ruby, vim, emacs, bash, etc.
 * Pre-authorized and always up-to-date
-* 
+* Web preview of web app running on local port
+
+
+
 
 
 
