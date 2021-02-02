@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Learning GCP](README.md)
-* [Lesson 2: Exploring Cloud Shell](lesson-2-exploring-cloud-shell.md)
 * [Lesson 1: Account Setup](lesson-1-account-setup.md)
+* [Lesson 2: Exploring Cloud Shell](lesson-2-exploring-cloud-shell.md)
 
 ## Week 1 - Cloud Computing
 
